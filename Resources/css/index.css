@@ -133,6 +133,12 @@ header .desktop{
     height: auto;
 
 }
+.feed a{
+ 
+    text-decoration: none;
+    color: rgb(93, 146, 220);
+  
+}
 .data h3{
      font-size: 22px;      
 }
